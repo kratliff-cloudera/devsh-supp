@@ -9,4 +9,4 @@ Start with table create script to create HBase table
 After table creation, run table populate script  
   hbase_account_table_populate.sh  
 Launch a Scala Spark shell and load the Scala file into the shell  
-  spark_shell_read_hbase_table.scala  
+  hbase_account_load_scala_shell.scala  
